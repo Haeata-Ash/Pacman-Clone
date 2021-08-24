@@ -1,0 +1,8 @@
+Hi, 
+Some of my tests that involve sprites arbitrarily fail sometimes.
+I am certain that it isn't my code (game code) that is causing but 
+something to do with how images are loaded and drawn while testing.
+
+The tests will run normally after the first 3 or 4 which often fail.
+So if you are able to when marking please run the tests at least 3-4 times. 
+Thanks

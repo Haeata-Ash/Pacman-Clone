@@ -1,0 +1,16 @@
+{
+    "map": "WhimTest.txt",
+    "lives": 3,
+    "speed": 2,
+    "frightenedLength": 3,
+    "modeLengths": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+    ]
+}
